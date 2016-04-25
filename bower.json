@@ -1,0 +1,23 @@
+{
+  "name": "FormLoader",
+  "homepage": "https://github.com/minya92/FormLoader",
+  "authors": [
+    "Mikhail Lapshin <lapshin.michail@gmail.com>"
+  ],
+  "description": "Custom form loader for Platypus Platform",
+  "main": "FormLoader.js",
+  "keywords": [
+    "Forms",
+    "Form",
+    "FormLoader",
+    "Platypus"
+  ],
+  "license": "APACHE 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
