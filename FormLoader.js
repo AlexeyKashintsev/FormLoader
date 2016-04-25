@@ -24,7 +24,7 @@ define('FormLoader', ['forms'], function (Forms, ModuleName) {
         self.showModal = function(callback) {
             form.showModal(callback);
         };
-
+        
         return form;
     };
 });
